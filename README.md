@@ -2,7 +2,7 @@
 
 ## Problem Statement:
 
-The healthcare system in Nigeria, as depicted in the dashboard, faces several challenges. These include disparities in the distribution of functional facilities across the country with an estimated 213.4 million people , a high number of non-functional facilities, and a concentration of functional facilities in certain regions like Lagos.
+The healthcare system in Nigeria, as depicted in the dashboard, faces several challenges. These include disparities in the distribution of functional facilities across the country with an estimated 213.4 million people, a high number of non-functional facilities, and a concentration of functional facilities in certain regions like Lagos.
 
 ## Objective:
 
