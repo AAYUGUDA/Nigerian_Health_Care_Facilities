@@ -10,7 +10,7 @@ The objective is to use the insights from the dashboard to improve the distribut
 
 ## Findings:
 
-The dashboard reveals that there is a significant disparity in the distribution of functional healthcare facilities across Nigeria, with certain regions having more access to healthcare services than others. Additionally, there is a high number of non-functional facilities across the country. Furthermore, functional facilities are concentrated in certain areas like Lagos, leading to accessibility issues for those living in other regions.
+According to the dashboard, it appears that there is variation in the distribution of healthcare facilities across Nigeria. Some regions have better access to healthcare services than others. Additionally, there are facilities throughout the country. Operational facilities are mainly concentrated in areas like Lagos, which poses accessibility difficulties for people living in other regions.
 
 
 ![image](https://github.com/AAYUGUDA/Nigerian_Health_Care_Facilities/assets/145426257/f0133ce2-503c-4463-85bf-8831ab669629)
